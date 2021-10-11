@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo Santos</h1>
-<h3 align="center">Software Enginner from Portugal</h3>
+<h3 align="center">Software Engineer from Portugal</h3>
 
 - 🌱 I’m currently learning **Spring Boot, NestJS, React, Next.js, Kubernetes**
 
